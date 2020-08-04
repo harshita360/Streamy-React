@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream!",
+      "id": 1
+    },
+    {
+      "title": "swirl",
+      "description": "soft and soothing",
+      "id": 2
+    },
+    {
+      "title": "Tryin Component Reuse",
+      "description": "Watch me refactor some component",
+      "id": 4
+    },
+    {
+      "title": "The Dark Theory",
+      "description": "This is amazing!",
+      "userId": "103782382631529403057",
+      "id": 5
+    },
+    {
+      "title": "The New Melody",
+      "description": "A mood refreshing experience",
+      "userId": "103782382631529403057",
+      "id": 6
+    }
+  ]
+}
